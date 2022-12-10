@@ -1,5 +1,4 @@
 {
     "port": "COM3",
-    "board": "arduino:avr:uno",
-    "sketch": "CD77_Halloween_Fun_2019.ino"
+    "board": "arduino:avr:uno"
 }
